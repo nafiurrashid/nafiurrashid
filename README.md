@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: https://www.linkedin.com/in/nafiurrashid/
-- 🔭 I’m currently working on React, Django CI-CD Pipeline
+- 🔭 I’m currently working on React, Django, Docker, CI-CD Pipeline
