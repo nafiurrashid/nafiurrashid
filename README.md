@@ -26,6 +26,13 @@ I've very active, writing content regularly to at least one of these.
 - Ideal School and College, SSC, 2011 
 
 ## 💻 Work Experience
+- BJIT Limited, Cloud & DevOps Engineer, July 2022-Now<br />
+   - Deployed projects according to client's needs using RDS, Redshift, CDC, Data Migration Service,
+Elastic beanstalk, Terraform etc.<br />
+   -  Implement Security best practice as PCI, HIPAA, GDPR, APRA, MAS, NIST4.<br />
+   - Develop strategies, processes, and tools to ensure manageable and efficient deployments and
+execute upgrades, and migrations in Dev, Stage, and Prod in a way that avoids downtime and service
+interruptions for different codebases.<br />
 - Line Reflection, DevOps Engineer, Mar 2022-July 2022<br />
    - Deployed projects according to clients' need using Terraform, Jenkins, Docker, Git etc.<br />
    - Develop Strategis, process, and tools to ensure manageable and efficient deployments.<br />
