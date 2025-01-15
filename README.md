@@ -27,7 +27,7 @@ I've very active, writing content regularly to at least one of these.
 
 ## 💻 Work Experience
 - BJIT Limited, Cloud & DevOps Engineer, July 2022-Now<br />
-   - Deployed projects according to client's needs using RDS, Redshift, CDC, Data Migration Service,
+   - Deployed projects according to client's needs using RDS, Redshift, Data Migration Service,
 Elastic beanstalk, Terraform etc.<br />
    -  Implement Security best practice as PCI, HIPAA, GDPR, APRA, MAS, NIST4.<br />
    - Develop strategies, processes, and tools to ensure manageable and efficient deployments and
