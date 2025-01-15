@@ -1,8 +1,8 @@
 
 ![Header](./github-header-image.png)
 <!-- - 👋 Hi, I’m @nafiur -->
-- 👀 I’m interested in System Design
-- 🌱 I’m currently learning CI/CD
+- 👀 Interested in System Design
+- 🌱 Currently working on Cloud & CI/CD
 - 💞️ I’m looking to collaborate on Datacentic projects and Prototyping
 
 ## 📝 Blogs and writing
